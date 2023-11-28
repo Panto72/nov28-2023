@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\solving\multidymentional array\bin\Debug\net7.0\multidymentional array.exe
+C:\Users\User\source\repos\solving\multidymentional array\bin\Debug\net7.0\multidymentional array.deps.json
+C:\Users\User\source\repos\solving\multidymentional array\bin\Debug\net7.0\multidymentional array.runtimeconfig.json
+C:\Users\User\source\repos\solving\multidymentional array\bin\Debug\net7.0\multidymentional array.dll
+C:\Users\User\source\repos\solving\multidymentional array\bin\Debug\net7.0\multidymentional array.pdb
+C:\Users\User\source\repos\solving\multidymentional array\obj\Debug\net7.0\multidymentional array.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\solving\multidymentional array\obj\Debug\net7.0\multidymentional array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\solving\multidymentional array\obj\Debug\net7.0\multidymentional array.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\solving\multidymentional array\obj\Debug\net7.0\multidymentional array.AssemblyInfo.cs
+C:\Users\User\source\repos\solving\multidymentional array\obj\Debug\net7.0\multidymentional array.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\solving\multidymentional array\obj\Debug\net7.0\multidymentional array.dll
+C:\Users\User\source\repos\solving\multidymentional array\obj\Debug\net7.0\refint\multidymentional array.dll
+C:\Users\User\source\repos\solving\multidymentional array\obj\Debug\net7.0\multidymentional array.pdb
+C:\Users\User\source\repos\solving\multidymentional array\obj\Debug\net7.0\multidymentional array.genruntimeconfig.cache
+C:\Users\User\source\repos\solving\multidymentional array\obj\Debug\net7.0\ref\multidymentional array.dll

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\solving\solving\obj\Debug\net7.0\solving.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\solving\solving\obj\Debug\net7.0\solving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\solving\solving\obj\Debug\net7.0\solving.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\solving\solving\obj\Debug\net7.0\solving.AssemblyInfo.cs
+C:\Users\User\source\repos\solving\solving\obj\Debug\net7.0\solving.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\solving\solving\bin\Debug\net7.0\solving.exe
+C:\Users\User\source\repos\solving\solving\bin\Debug\net7.0\solving.deps.json
+C:\Users\User\source\repos\solving\solving\bin\Debug\net7.0\solving.runtimeconfig.json
+C:\Users\User\source\repos\solving\solving\bin\Debug\net7.0\solving.dll
+C:\Users\User\source\repos\solving\solving\bin\Debug\net7.0\solving.pdb
+C:\Users\User\source\repos\solving\solving\obj\Debug\net7.0\solving.dll
+C:\Users\User\source\repos\solving\solving\obj\Debug\net7.0\refint\solving.dll
+C:\Users\User\source\repos\solving\solving\obj\Debug\net7.0\solving.pdb
+C:\Users\User\source\repos\solving\solving\obj\Debug\net7.0\solving.genruntimeconfig.cache
+C:\Users\User\source\repos\solving\solving\obj\Debug\net7.0\ref\solving.dll

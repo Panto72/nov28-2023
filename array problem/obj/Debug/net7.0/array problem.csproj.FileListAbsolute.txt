@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\solving\array problem\bin\Debug\net7.0\array problem.exe
+C:\Users\User\source\repos\solving\array problem\bin\Debug\net7.0\array problem.deps.json
+C:\Users\User\source\repos\solving\array problem\bin\Debug\net7.0\array problem.runtimeconfig.json
+C:\Users\User\source\repos\solving\array problem\bin\Debug\net7.0\array problem.dll
+C:\Users\User\source\repos\solving\array problem\bin\Debug\net7.0\array problem.pdb
+C:\Users\User\source\repos\solving\array problem\obj\Debug\net7.0\array problem.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\solving\array problem\obj\Debug\net7.0\array problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\solving\array problem\obj\Debug\net7.0\array problem.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\solving\array problem\obj\Debug\net7.0\array problem.AssemblyInfo.cs
+C:\Users\User\source\repos\solving\array problem\obj\Debug\net7.0\array problem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\solving\array problem\obj\Debug\net7.0\array problem.dll
+C:\Users\User\source\repos\solving\array problem\obj\Debug\net7.0\refint\array problem.dll
+C:\Users\User\source\repos\solving\array problem\obj\Debug\net7.0\array problem.pdb
+C:\Users\User\source\repos\solving\array problem\obj\Debug\net7.0\array problem.genruntimeconfig.cache
+C:\Users\User\source\repos\solving\array problem\obj\Debug\net7.0\ref\array problem.dll
